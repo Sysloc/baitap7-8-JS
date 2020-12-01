@@ -1,0 +1,12 @@
+.anima{
+    min-width: 100px;
+    height: 100px;
+    margin: 10px auto;
+    background: linear-gradient(-45deg,rgba(3, 3, 3, 0.5) 0%, rgba(0, 26, 255, 0.5) 100%);
+    color: white;
+    padding: 10px;
+}
+.btn:hover{
+    background: linear-gradient(-45deg,rgba(3, 3, 3, 0.5) 0%, rgba(0, 26, 255, 0.5) 100%);
+}
+
